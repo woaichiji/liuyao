@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-03-八卦象类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-04-六十四卦.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-02-五行生克.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-02-五行生克.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-04-六十四卦.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-04-六十四卦.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608282920413</updated>
-      <workItem from="1608282921587" duration="5317000" />
+      <workItem from="1608282921587" duration="6255000" />
     </task>
     <servers />
   </component>
