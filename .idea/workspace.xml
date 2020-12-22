@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1-05-天干.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-06-地支.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-07-六十花甲与纳音歌.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-08-二十四节气.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-04-六十四卦.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-04-六十四卦.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608282920413</updated>
-      <workItem from="1608282921587" duration="6255000" />
+      <workItem from="1608282921587" duration="6404000" />
+      <workItem from="1608513656384" duration="10835000" />
+      <workItem from="1608602483983" duration="5154000" />
     </task>
     <servers />
   </component>
@@ -65,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
