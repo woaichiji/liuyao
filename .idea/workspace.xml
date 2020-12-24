@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-06-修订版六十四卦全图.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-06-原版六十四卦全图.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-06-修订版六十四卦全图.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-06-修订版六十四卦全图.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +141,7 @@
       <workItem from="1608708251600" duration="72000" />
       <workItem from="1608708346342" duration="206000" />
       <workItem from="1608708621908" duration="134000" />
-      <workItem from="1608798440837" duration="4659000" />
+      <workItem from="1608798440837" duration="7104000" />
     </task>
     <servers />
   </component>
