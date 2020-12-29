@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-03-持世.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-04-月建.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-05-日辰.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-05-旬空.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-01-用神、元神、忌神、仇神.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-01-用神、元神、忌神、仇神.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-02-伏神与飞神.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-02-伏神与飞神.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-06-动爻、静爻与变爻.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-06-动爻、静爻与变爻.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-03-持世.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-03-持世.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +147,9 @@
       <workItem from="1608708621908" duration="134000" />
       <workItem from="1608798440837" duration="7243000" />
       <workItem from="1608860245555" duration="7824000" />
-      <workItem from="1608888021226" duration="1879000" />
+      <workItem from="1608888021226" duration="4919000" />
+      <workItem from="1609117622143" duration="20217000" />
+      <workItem from="1609206537804" duration="2700000" />
     </task>
     <servers />
   </component>
