@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4-01-断卦的基本步骤.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-02-动动相连.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-03-动爻变废.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-04-重内轻外.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-05-用神伏藏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-06-独发与独静.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-07-静卦.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-08-心态卦.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-07-日破与暗动.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-07-日破与暗动.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-08-太岁、时辰与分令.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-08-太岁、时辰与分令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-09-进神与退神.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-09-进神与退神.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-10-反吟.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-10-反吟.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-11-扶吟.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-11-伏吟.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-12-三合局.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-12-三合局.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +156,14 @@
       <workItem from="1609291834649" duration="6508000" />
       <workItem from="1609322828355" duration="585000" />
       <workItem from="1609379566614" duration="9583000" />
-      <workItem from="1609810676804" duration="18366000" />
+      <workItem from="1609810676804" duration="18399000" />
+      <workItem from="1609898625062" duration="11138000" />
+      <workItem from="1609916831292" duration="6384000" />
+      <workItem from="1610002518321" duration="9437000" />
+      <workItem from="1610070956251" duration="2863000" />
+      <workItem from="1610333759399" duration="4136000" />
+      <workItem from="1610502009820" duration="3605000" />
+      <workItem from="1610603608455" duration="600000" />
     </task>
     <servers />
   </component>
