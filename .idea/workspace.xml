@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b91371-9984-4367-af58-0b5672547dfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4-01-断卦的基本步骤.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-02-动动相连.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-03-动爻变废.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-04-重内轻外.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-05-用神伏藏.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-06-独发与独静.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-07-静卦.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-08-心态卦.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-03-动爻变废.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-03-动爻变废.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-04-重内轻外.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-04-重内轻外.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-05-用神伏藏.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-05-用神伏藏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-06-独发与独静.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-06-独发与独静.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-07-静卦.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-07-静卦.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,10 @@
       <workItem from="1610070956251" duration="2863000" />
       <workItem from="1610333759399" duration="4136000" />
       <workItem from="1610502009820" duration="3605000" />
-      <workItem from="1610603608455" duration="600000" />
+      <workItem from="1610603608455" duration="4844000" />
+      <workItem from="1610673986314" duration="6615000" />
+      <workItem from="1611132492909" duration="5028000" />
+      <workItem from="1611541350429" duration="9622000" />
     </task>
     <servers />
   </component>
